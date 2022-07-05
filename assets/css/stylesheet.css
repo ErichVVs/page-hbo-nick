@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Nuosu+SIL&display=swap");
+a {
+  font-family: 'Nuosu SIL', serif;
+}
+
+.logohbo {
+  text-align: center;
+}
+
+.imagenescartoons {
+  text-align: center;
+}
+
+.devicesmockup {
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(to left, #030328, #2c078b, #3d1264);
+  margin: 0;
+  padding: 0;
+}
+
+.boton {
+  text-align: center;
+}
+
+button {
+  background-color: #7b2abf;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  border: none;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 25px;
+}
+/*# sourceMappingURL=stylesheet.css.map */
